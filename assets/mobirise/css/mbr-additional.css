@@ -1383,6 +1383,19 @@ body {
 .cid-qQM8GbzKKv {
   background-image: url("../../../assets/images/shutterstock-595298048-1000x692.jpg");
 }
+.cid-qS2tUiZZUk {
+  background-image: url("../../../assets/images/shutterstock-558728896-1000x667.jpg");
+}
+.cid-qS2tUiZZUk .mbr-text,
+.cid-qS2tUiZZUk .mbr-section-btn {
+  text-align: right;
+}
+.cid-qS2tUiZZUk H3 {
+  text-align: right;
+}
+.cid-qS2tUiZZUk H1 {
+  text-align: right;
+}
 .cid-qQM8lBZW1I {
   background-image: url("../../../assets/images/shutterstock-285854987-1000x687.jpg");
 }
@@ -1478,4 +1491,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qQM83lc0Lp P {
+  color: #149dcc;
 }
